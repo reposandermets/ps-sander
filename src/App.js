@@ -11,16 +11,26 @@ import animation from './img/animation.gif';
 
 function App() {
   return (
-    <AwesomeSlider animation="cubeAnimation">
-      <div data-src={photopea} />
-      <div data-src={patikohv} />
-      <div data-src={photoonwood} />
-      <div data-src={done_venice} />
-      <div data-src={alexander} />
-      <div data-src={kehaline} />
-      <div data-src={animation} />
-    </AwesomeSlider>
-  );
+    <React.Fragment>
+      <AwesomeSlider animation="cubeAnimation">
+        <div data-src={photopea} />
+        <div data-src={patikohv} />
+        <div data-src={photoonwood} />
+        <div data-src={done_venice} />
+        <div data-src={alexander} />
+        <div data-src={kehaline} />
+        <div data-src={animation} />
+      </AwesomeSlider>
+      <div style={{display: "none"}}>
+        <img src={patikohv} />
+        <img src={photoonwood} />
+        <img src={done_venice} />
+        <img src={alexander} />
+        <img src={kehaline} />
+        <img src={animation} />
+      </div>
+    </React.Fragment>
+  )
 }
 
 export default App;
