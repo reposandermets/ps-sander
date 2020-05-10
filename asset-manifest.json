@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reposandermets/ps-sander/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/reposandermets/ps-sander/static/js/main.0b1706e0.chunk.js",
+    "main.js.map": "/reposandermets/ps-sander/static/js/main.0b1706e0.chunk.js.map",
+    "runtime-main.js": "/reposandermets/ps-sander/static/js/runtime-main.d8028c94.js",
+    "runtime-main.js.map": "/reposandermets/ps-sander/static/js/runtime-main.d8028c94.js.map",
+    "static/css/2.0f23f1e5.chunk.css": "/reposandermets/ps-sander/static/css/2.0f23f1e5.chunk.css",
+    "static/js/2.55d6cd2b.chunk.js": "/reposandermets/ps-sander/static/js/2.55d6cd2b.chunk.js",
+    "static/js/2.55d6cd2b.chunk.js.map": "/reposandermets/ps-sander/static/js/2.55d6cd2b.chunk.js.map",
+    "index.html": "/reposandermets/ps-sander/index.html",
+    "precache-manifest.ef96e822c3c6bc55534a7daf9198d85b.js": "/reposandermets/ps-sander/precache-manifest.ef96e822c3c6bc55534a7daf9198d85b.js",
+    "service-worker.js": "/reposandermets/ps-sander/service-worker.js",
+    "static/css/2.0f23f1e5.chunk.css.map": "/reposandermets/ps-sander/static/css/2.0f23f1e5.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/reposandermets/ps-sander/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.55d6cd2b.chunk.js.LICENSE.txt": "/reposandermets/ps-sander/static/js/2.55d6cd2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8028c94.js",
+    "static/css/2.0f23f1e5.chunk.css",
+    "static/js/2.55d6cd2b.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.0b1706e0.chunk.js"
+  ]
+}
