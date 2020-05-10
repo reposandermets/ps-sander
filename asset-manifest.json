@@ -1,26 +1,32 @@
 {
   "files": {
     "main.css": "/ps-sander/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/ps-sander/static/js/main.3190d6fe.chunk.js",
-    "main.js.map": "/ps-sander/static/js/main.3190d6fe.chunk.js.map",
+    "main.js": "/ps-sander/static/js/main.d8d872e8.chunk.js",
+    "main.js.map": "/ps-sander/static/js/main.d8d872e8.chunk.js.map",
     "runtime-main.js": "/ps-sander/static/js/runtime-main.fa0b4575.js",
     "runtime-main.js.map": "/ps-sander/static/js/runtime-main.fa0b4575.js.map",
     "static/css/2.0f23f1e5.chunk.css": "/ps-sander/static/css/2.0f23f1e5.chunk.css",
-    "static/js/2.5f3b4ff8.chunk.js": "/ps-sander/static/js/2.5f3b4ff8.chunk.js",
-    "static/js/2.5f3b4ff8.chunk.js.map": "/ps-sander/static/js/2.5f3b4ff8.chunk.js.map",
+    "static/js/2.493a2f05.chunk.js": "/ps-sander/static/js/2.493a2f05.chunk.js",
+    "static/js/2.493a2f05.chunk.js.map": "/ps-sander/static/js/2.493a2f05.chunk.js.map",
     "index.html": "/ps-sander/index.html",
-    "precache-manifest.5ba816b74b260221b4959d38b7e3da9e.js": "/ps-sander/precache-manifest.5ba816b74b260221b4959d38b7e3da9e.js",
+    "precache-manifest.0be1df2883b4ed19004dca64c3336a18.js": "/ps-sander/precache-manifest.0be1df2883b4ed19004dca64c3336a18.js",
     "service-worker.js": "/ps-sander/service-worker.js",
     "static/css/2.0f23f1e5.chunk.css.map": "/ps-sander/static/css/2.0f23f1e5.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/ps-sander/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.5f3b4ff8.chunk.js.LICENSE.txt": "/ps-sander/static/js/2.5f3b4ff8.chunk.js.LICENSE.txt",
+    "static/js/2.493a2f05.chunk.js.LICENSE.txt": "/ps-sander/static/js/2.493a2f05.chunk.js.LICENSE.txt",
+    "static/media/alexander.png": "/ps-sander/static/media/alexander.e63548a8.png",
+    "static/media/animation.gif": "/ps-sander/static/media/animation.78bc202e.gif",
+    "static/media/done_venice.png": "/ps-sander/static/media/done_venice.d4f06bf5.png",
+    "static/media/kehaline.jpg": "/ps-sander/static/media/kehaline.08d1f9bc.jpg",
+    "static/media/patikohv.png": "/ps-sander/static/media/patikohv.d8d601e6.png",
+    "static/media/photoonwood.png": "/ps-sander/static/media/photoonwood.56d7cfa0.png",
     "static/media/photopea.png": "/ps-sander/static/media/photopea.0efc47e2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fa0b4575.js",
     "static/css/2.0f23f1e5.chunk.css",
-    "static/js/2.5f3b4ff8.chunk.js",
+    "static/js/2.493a2f05.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.3190d6fe.chunk.js"
+    "static/js/main.d8d872e8.chunk.js"
   ]
 }
