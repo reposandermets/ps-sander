@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c4104e98f8fc10ac49b92539bebe010",
+    "revision": "c262313f6d576b0a140bdb6b57fc9944",
     "url": "/ps-sander/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ps-sander/static/css/2.0f23f1e5.chunk.css"
   },
   {
-    "revision": "3f844a2d18d4f57a16c4",
+    "revision": "76fde4d2ab4b650c7cb1",
     "url": "/ps-sander/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ps-sander/static/js/2.f25cc98d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3f844a2d18d4f57a16c4",
-    "url": "/ps-sander/static/js/main.678a2afc.chunk.js"
+    "revision": "76fde4d2ab4b650c7cb1",
+    "url": "/ps-sander/static/js/main.01340fb0.chunk.js"
   },
   {
     "revision": "1aa737409c8b4283b9a2",
