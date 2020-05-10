@@ -3,7 +3,7 @@ import React from 'react';
 // import './App.css';
 import AwesomeSlider from 'react-awesome-slider';
 import 'react-awesome-slider/dist/custom-animations/cube-animation.css';
-import photopea from '/img/photopea.png';
+import photopea from './img/photopea.png';
 
 function App() {
   return (
