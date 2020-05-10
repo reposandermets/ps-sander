@@ -12,6 +12,14 @@ import animation from './img/animation.gif';
 function App() {
   return (
     <React.Fragment>
+      <div style={{display: "none"}}>
+        <img src={patikohv} />
+        <img src={photoonwood} />
+        <img src={done_venice} />
+        <img src={alexander} />
+        <img src={kehaline} />
+        <img src={animation} />
+      </div>
       <AwesomeSlider animation="cubeAnimation">
         <div data-src={photopea} />
         <div data-src={patikohv} />
@@ -21,14 +29,6 @@ function App() {
         <div data-src={kehaline} />
         <div data-src={animation} />
       </AwesomeSlider>
-      <div style={{display: "none"}}>
-        <img src={patikohv} />
-        <img src={photoonwood} />
-        <img src={done_venice} />
-        <img src={alexander} />
-        <img src={kehaline} />
-        <img src={animation} />
-      </div>
     </React.Fragment>
   )
 }
