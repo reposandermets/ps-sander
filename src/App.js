@@ -12,13 +12,13 @@ import animation from './img/animation.gif';
 function App() {
   return (
     <React.Fragment>
-      <div style={{display: "none"}}>
-        <img src={patikohv} />
-        <img src={photoonwood} />
-        <img src={done_venice} />
-        <img src={alexander} />
-        <img src={kehaline} />
-        <img src={animation} />
+      <div style={{display: "none"}} async>
+        <img src={patikohv} alt=""/>
+        <img src={photoonwood} alt=""/>
+        <img src={done_venice} alt=""/>
+        <img src={alexander} alt=""/>
+        <img src={kehaline} alt=""/>
+        <img src={animation} alt=""/>
       </div>
       <AwesomeSlider animation="cubeAnimation">
         <div data-src={photopea} />
